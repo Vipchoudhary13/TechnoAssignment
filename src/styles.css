@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.showdata {
+  /* border: 1px solid black; */
+}
+th {
+  background-color: rgb(238, 202, 43);
+}
+th,
+td {
+  border: 1px solid black;
+}
